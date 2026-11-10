@@ -1,0 +1,6 @@
+{
+  "name": "SeismoLab — Digital Twin Workspace",
+  "description": "Seismic engineering simulation studio and digital twin workspace for structural resilience analysis in high-risk earthquake zones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
