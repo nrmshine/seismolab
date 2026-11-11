@@ -10,6 +10,5 @@ export default defineConfig({
       '@': path.resolve(__dirname, './src'),
     },
   },
-  server: { ... },
-  base: '/seismolab/', // <--- Міне, осы жолды қосу керек
+  base: '/',
 })
